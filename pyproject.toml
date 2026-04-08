@@ -1,5 +1,9 @@
 [project]
+<<<<<<< HEAD
 name = "bsx"
+=======
+name = "lab"
+>>>>>>> 1194050369de0e9619620ad7b3bdc4145e3c4637
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
